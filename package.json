@@ -1,0 +1,14 @@
+{
+  "name": "democraticdiscordwebselector",
+  "version": "1.0.0",
+  "description": "A basic thrown together solution to select slider values for https://openpsychometrics.org/tests/characters via messages in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "PhantomOffKanegawa",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  }
+}
